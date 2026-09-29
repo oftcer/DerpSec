@@ -1,6 +1,6 @@
 # DerpSec
 
-Proxy de interceptação HTTP/HTTPS para Windows, no estilo do Burp Suite, escrito em Python + Tkinter.
+Proxy de interceptação HTTP/HTTPS para Windows, escrito em Python + Tkinter.
 **100% open source (licença MIT)**, funciona **localmente**, sem conta, sem nuvem e sem telemetria.
 
 - Aplicativo portátil: `DerpSec.exe` (gerado pelo PyInstaller, veja *Compilando do código-fonte*)
