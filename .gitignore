@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+venv/
+.venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.manifest
+
+# Helpers temporarios de captura de tela na raiz (nao fazem parte do projeto)
+/_*.py
+/_*.ps1
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
